@@ -591,7 +591,7 @@ export default function Home() {
                   IA & Automatización
                 </h3>
                 <div className="flex flex-wrap gap-2 text-xs font-medium">
-                  <span className="px-2.5 py-1 rounded border-2 border-black bg-emerald-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">OpenAI API</span>
+                  <span className="px-2.5 py-1 rounded border-2 border-black bg-emerald-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">GPT</span>
                   <span className="px-2.5 py-1 rounded border-2 border-black bg-purple-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">Claude</span>
                   <span className="px-2.5 py-1 rounded border-2 border-black bg-blue-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">Gemini</span>
                   <span className="px-2.5 py-1 rounded border-2 border-black bg-rose-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">n8n</span>
