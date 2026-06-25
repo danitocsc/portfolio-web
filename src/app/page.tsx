@@ -605,7 +605,7 @@ export default function Home() {
                 </h3>
                 <div className="flex flex-wrap gap-2 text-xs font-medium">
                   <span className="px-2.5 py-1 rounded border-2 border-black bg-sky-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">SQL</span>
-                  <span className="px-2.5 py-1 rounded border-2 border-black bg-indigo-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">SQLite / PostgreSQL</span>
+                  <span className="px-2.5 py-1 rounded border-2 border-black bg-orange-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">Git</span>
                   <span className="px-2.5 py-1 rounded border-2 border-black bg-amber-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">Power BI</span>
                   <span className="px-2.5 py-1 rounded border-2 border-black bg-red-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">Oracle Cloud</span>
                   <span className="px-2.5 py-1 rounded border-2 border-black bg-neutral-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">Vercel</span>
