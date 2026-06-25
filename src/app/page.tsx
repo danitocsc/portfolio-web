@@ -466,22 +466,11 @@ export default function Home() {
                   </div>
                 </div>
 
-                {/* Row 2: Stats */}
-                <div className="flex justify-center sm:justify-start gap-6 text-base text-neutral-800">
-                  <div>
-                    <span className="font-bold text-black">5</span> publicaciones
-                  </div>
-                  <div>
-                    <span className="font-bold text-black">1.2K</span> seguidores
-                  </div>
-                  <div>
-                    <span className="font-bold text-black">328</span> seguidos
-                  </div>
-                </div>
+
 
                 {/* Row 3: Bio Details */}
                 <div className="text-sm">
-                  <h3 className="font-bold text-lg text-black">José Daniel Cruz Ponce</h3>
+                  <h3 className="font-bold text-lg text-black">Daniel Cruz</h3>
                   <span className="text-neutral-500 font-medium block text-sm mt-0.5">AI Developer & Data Analyst</span>
                   <p className="text-neutral-800 mt-2 text-sm leading-relaxed">
                     Transformo datos en conocimiento accionable mediante soluciones digitales, flujos de trabajo inteligentes y automatización con IA. Especialista en Next.js, Astro, LLMs y análisis de datos.
@@ -606,7 +595,6 @@ export default function Home() {
                   <span className="px-2.5 py-1 rounded border-2 border-black bg-purple-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">Claude</span>
                   <span className="px-2.5 py-1 rounded border-2 border-black bg-blue-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">Gemini</span>
                   <span className="px-2.5 py-1 rounded border-2 border-black bg-rose-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">n8n</span>
-                  <span className="px-2.5 py-1 rounded border-2 border-black bg-cyan-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">Agentes Autónomos</span>
                 </div>
               </div>
 
@@ -620,6 +608,7 @@ export default function Home() {
                   <span className="px-2.5 py-1 rounded border-2 border-black bg-indigo-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">SQLite / PostgreSQL</span>
                   <span className="px-2.5 py-1 rounded border-2 border-black bg-amber-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">Power BI</span>
                   <span className="px-2.5 py-1 rounded border-2 border-black bg-red-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">Oracle Cloud</span>
+                  <span className="px-2.5 py-1 rounded border-2 border-black bg-neutral-100 text-black font-extrabold shadow-[1px_1px_0px_#000]">Vercel</span>
                 </div>
               </div>
             </div>
